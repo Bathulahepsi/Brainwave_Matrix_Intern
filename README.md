@@ -36,7 +36,7 @@ To test the ATM simulation, you can use the following demo account details:
 1. **Clone the Repository**
 
    ```sh
-   git clone [https://github.com/your-username/atm-simulation.git](https://github.com/Bathulahepsi/Brainwave_Matrix_Intern)
+   git clone https://github.com/Bathulahepsi/Brainwave_Matrix_Intern
    ```
 
 2. **Navigate to the Project Directory**
